@@ -1,0 +1,14 @@
+/home/felipe/_projetos/_ads/prova_pratica_POO/bin/Debug/net10.0/prova_pratica_POO
+/home/felipe/_projetos/_ads/prova_pratica_POO/bin/Debug/net10.0/prova_pratica_POO.deps.json
+/home/felipe/_projetos/_ads/prova_pratica_POO/bin/Debug/net10.0/prova_pratica_POO.runtimeconfig.json
+/home/felipe/_projetos/_ads/prova_pratica_POO/bin/Debug/net10.0/prova_pratica_POO.dll
+/home/felipe/_projetos/_ads/prova_pratica_POO/bin/Debug/net10.0/prova_pratica_POO.pdb
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.AssemblyInfoInputs.cache
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.AssemblyInfo.cs
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.csproj.CoreCompileInputs.cache
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.dll
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/refint/prova_pratica_POO.dll
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.pdb
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/prova_pratica_POO.genruntimeconfig.cache
+/home/felipe/_projetos/_ads/prova_pratica_POO/obj/Debug/net10.0/ref/prova_pratica_POO.dll
